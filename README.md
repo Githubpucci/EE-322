@@ -11,3 +11,5 @@ _Github_
 **This text is _supeeeeeeer_ important**
 
 I ~~dont~~ like icecream
+
+This is a <sub>sub</sub> text
