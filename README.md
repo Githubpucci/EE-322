@@ -6,5 +6,4 @@ Engineering designVI
 _Github_
 > quote
 >
-> 
---Strike--
+~~ ~~Strike~~ ~~
