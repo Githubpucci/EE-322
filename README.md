@@ -1,5 +1,5 @@
 # EE-322
-## Heading 
+## _Heading_ 
 Engineering designVI
 
 **READ ME**
