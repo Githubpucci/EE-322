@@ -27,10 +27,12 @@ Heres a youtube link [youtube](https://www.youtube.com/)
 hm?
 `print hello world`
 
-1. First item 2. Second item 3. Third item
+1. First item
+2.  Second item
+3.  third item
    
    1. First item
- 2. First item
+ 3. First item
           2. Second item
 
 
