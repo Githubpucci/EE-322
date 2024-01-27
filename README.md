@@ -34,7 +34,7 @@ hm?
 
 
 Unordered list
-    - First item - 
+    - First item  
     -Second item - Third item
     - Unordered list
     - last one
