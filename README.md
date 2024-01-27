@@ -17,6 +17,4 @@ I ~~dont~~ like icecream
 
 This is a <sub>sub</sub> text
 
-function test() {
-  console.log("notice the blank line before this function?");
-}
+This site was built using [youtube](https://www.youtube.com/)
