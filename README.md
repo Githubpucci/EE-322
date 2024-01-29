@@ -8,10 +8,14 @@ Welcome to my **_GitHub_**
 - I am a 3/4 Electrical Engineer
 - I like to work with circuits
 
+Some things I like to do outside of school
+1. Hang out with Friends
+2. Play the piano
+3.) 
 
-
->I had a dream
->
+Goals I have
+>Graduate Stevens with a good GPA
+>Try all of the food in hoboken
  ~~Strike~~
  > blockquote
 
@@ -26,12 +30,9 @@ I attend Stevens Institute of Technology. Home of the **_ducks_**
 ***Markdown***
 ---horizontal
 ---
-hm?
+I have worked with C++, python, and assembler, but am most comfortable with C++
 `print("Hello World")`
-1. First item
-2.  Second item
-3.  third item
-4.  fourth item
+
 
 
 Unordered list
