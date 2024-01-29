@@ -2,7 +2,7 @@
 ## Engineering Design VI
 ### _Christopher Pucci_
 
-Welcome to my _GitHub_ **READ ME**
+Welcome to my **_GitHub_** 
 > I had a dream
 >
  ~~Strike~~
