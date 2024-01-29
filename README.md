@@ -1,9 +1,7 @@
-# EE-322
-## _Heading_ 
-I just need some Space
-### _Last Heading_
+# EE322 Assignment 0 
+## Engineering Design VI
+### _Christopher Pucci_
 
-Engineering designVI
 
 **READ ME**
 _GitHub_
