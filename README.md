@@ -4,7 +4,7 @@
 
 Welcome to my **_GitHub_** 
 
-- Heres a link to my LinkedIn [LinkedIn](www.linkedin.com/in/christopher-pucci-695473279)
+- Heres a link to my LinkedIn [LinkedIn][https://www.linkedin.com/in/christopher-pucci-695473279/]
 - 
 - 
 
