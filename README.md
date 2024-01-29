@@ -14,14 +14,12 @@ Welcome to my **_GitHub_**
 >
  ~~Strike~~
  > blockquote
- 
-**This text is _supeeeeeeer_ important**
 
 I ~~dont~~ like icecream
 
 This is a <sub>sub</sub> text
 
-I attend Stevens Institute of Technology. Home of the ducks
+I attend Stevens Institute of Technology. Home of the **_ducks_**
 
 ![image](https://github.com/Githubpucci/EE-322/assets/116912039/b5a1bccc-7876-43fd-85d1-c860e3191019)
 
