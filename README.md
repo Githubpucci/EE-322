@@ -17,11 +17,10 @@ Goals I have
 - Graduate Stevens with a good GPA
 - Try all of the food in hoboken
 - Get better at coding
- ~~Strike~~
- > blockquote
 
-I ~~dont~~ like icecream
-
+ 
+ > my favorite food is steak
+>
 This is a <sub>sub</sub> text
 
 I attend Stevens Institute of Technology. Home of the **_ducks_**
