@@ -24,8 +24,7 @@ Heres a youtube link [youtube](https://www.youtube.com/)
 ---horizontal
 ---
 hm?
-`print hello world`
-
+`print("Hello World")`
 1. First item
 2.  Second item
 3.  third item
