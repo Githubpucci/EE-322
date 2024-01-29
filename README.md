@@ -3,7 +3,14 @@
 ### _Christopher Pucci_
 
 Welcome to my **_GitHub_** 
-> I had a dream
+
+- Heres a link to my LinkedIn[youtube](www.linkedin.com/in/christopher-pucci-695473279)
+- 
+- 
+
+
+
+>I had a dream
 >
  ~~Strike~~
  > blockquote
@@ -14,7 +21,7 @@ I ~~dont~~ like icecream
 
 This is a <sub>sub</sub> text
 
-Heres a youtube link [youtube](https://www.youtube.com/)
+Heres a youtube link 
 
 ![image](https://github.com/Githubpucci/EE-322/assets/116912039/b5a1bccc-7876-43fd-85d1-c860e3191019)
 
