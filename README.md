@@ -14,8 +14,9 @@ Some things I like to do outside of school
 3.) 
 
 Goals I have
->Graduate Stevens with a good GPA
->Try all of the food in hoboken
+-Graduate Stevens with a good GPA
+-Try all of the food in hoboken
+-Get better at coding
  ~~Strike~~
  > blockquote
 
