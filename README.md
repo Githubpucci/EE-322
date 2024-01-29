@@ -6,7 +6,7 @@ I just need some Space
 Engineering designVI
 
 **READ ME**
-_Github_
+_GitHub_
 > I had a dream
 >
  ~~Strike~~
