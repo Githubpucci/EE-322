@@ -5,8 +5,8 @@
 Welcome to my **_GitHub_** 
 
 - Heres a link to my [LinkedIn](https://www.linkedin.com/in/christopher-pucci-695473279/)
-- 
-- 
+- I am a 3/4 Electrical Engineer
+- I like to work with circuits
 
 
 
