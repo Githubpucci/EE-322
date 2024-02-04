@@ -30,7 +30,11 @@ I attend Stevens Institute of Technology. Home of the **ducks**
 
 I have worked with C++, python, and assembler, but am most comfortable with C++
 
-`git status`
+```
+var add2 = function(number) {
+  return number + 1;
+}
+```
 
 
 
