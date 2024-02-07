@@ -13,8 +13,8 @@ Some things I like to do outside of school
 2. Play the piano
 3. Play League of Legends
 
-Goals I have
---- Graduate Stevens with a good GPA ---
+ --- Goals I have 
+ --- Graduate Stevens with a good GPA  ---
 - Try all of the food in hoboken
 - Get better at coding
 
