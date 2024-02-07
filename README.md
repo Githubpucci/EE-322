@@ -29,7 +29,7 @@ I attend Stevens Institute of Technology. Home of the **ducks**
 ![image](https://github.com/Githubpucci/EE-322/assets/116912039/b5a1bccc-7876-43fd-85d1-c860e3191019)
 
 
-I have worked with C++, python, and assembler, but am most comfortable with C++
+I have worked with C++, Python, and Assembler, but am most comfortable with C++
 
 ```
 var add2 = function(number) {
