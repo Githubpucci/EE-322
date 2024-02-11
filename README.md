@@ -11,7 +11,7 @@ Welcome to my **_GitHub_**
 Some things I like to do outside of school
 1. Hang out with Friends
 2. Play the piano
-3. Play League of Legends
+3. Play League of Legends (just hit the highest rank)
 
  --- 
  Goals I have 
