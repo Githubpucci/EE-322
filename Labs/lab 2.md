@@ -13,6 +13,8 @@ Prints a list of enviroment variables
 
 ### ps
 "process status" prints the name of all currently running processes (programs and applications)
+![env](https://github.com/Githubpucci/EE-322/assets/116912039/52232de9-d776-4b74-97b4-f3b24f111f03)
+
 
 ### pwd
 "print working directory" prints the name of the current directory
