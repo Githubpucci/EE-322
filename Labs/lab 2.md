@@ -1,5 +1,6 @@
-## Lab 2
+# CPE 322 Lab 2
 
-### Christopher Pucci
+## Christopher Pucci
 
-#q12
+### hostname
+
