@@ -5,3 +5,5 @@
 ### hostname
 
 Prints the hostname of the current system. "raspberrypi"
+
+### env
