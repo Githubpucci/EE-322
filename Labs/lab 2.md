@@ -7,3 +7,5 @@
 Prints the hostname of the current system. "raspberrypi"
 
 ### env
+Prints a list of enviroment variables
+
