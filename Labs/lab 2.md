@@ -4,5 +4,4 @@
 
 ### hostname
 
-Prints the hostname of the current system.
-"raspberrypi"
+Prints the hostname of the current system. "raspberrypi"
