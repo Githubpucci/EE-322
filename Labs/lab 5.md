@@ -7,7 +7,7 @@ Paho can be installed quickly using this command:
 
 ` $ pip install paho-mqtt `
 
-The first step of this lesson is to install mosquitto to test out some MQTT features
+The next step is to install mosquitto to test out some MQTT features
 
 ` $ sudo apt update `
 ` $ sudo apt install mosquitto mosquitto-clients `
