@@ -23,6 +23,7 @@ Heres the data sent to chart 2
 ![pic 2](https://github.com/Githubpucci/EE-322/assets/116912039/8d99b2be-4e7a-436c-93dd-2bf6535ea5dd)
 
 --- 
+
 Finally heres the data in the excel sheet.
 
 ![pic3](https://github.com/Githubpucci/EE-322/assets/116912039/f22176c4-66d9-4647-9d26-44fd83c28679)
