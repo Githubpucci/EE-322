@@ -13,18 +13,7 @@
 
 
 
-address
 
-![address](https://github.com/Githubpucci/EE-322/assets/116912039/0e276145-8381-4dcc-a802-f1e950c76242)
-
-battery
-
-![battery](https://github.com/Githubpucci/EE-322/assets/116912039/ca904fd5-9b1e-4b50-b737-7f92b38e6616)
-
-
-cpu
-
-![cpu py](https://github.com/Githubpucci/EE-322/assets/116912039/ed746d25-35d3-4e3e-9470-8e779fe280ab)
 
 date example
 
@@ -34,9 +23,7 @@ date time
 
 ![datetime](https://github.com/Githubpucci/EE-322/assets/116912039/f1a0f26d-3792-462c-9c08-033190e10f52)
 
-document
 
-![document](https://github.com/Githubpucci/EE-322/assets/116912039/192dfadb-a9f4-495c-a91c-71f6f601e909)
 
 julian
 
@@ -56,6 +43,25 @@ sun py
 
 ![sun py](https://github.com/Githubpucci/EE-322/assets/116912039/c73e1753-867e-4124-9397-df3e05d7e4d1)
 
+
+address
+
+![address](https://github.com/Githubpucci/EE-322/assets/116912039/0e276145-8381-4dcc-a802-f1e950c76242)
+
+
+
+cpu
+
+![cpu py](https://github.com/Githubpucci/EE-322/assets/116912039/ed746d25-35d3-4e3e-9470-8e779fe280ab)
+
+
+battery
+
+![battery](https://github.com/Githubpucci/EE-322/assets/116912039/ca904fd5-9b1e-4b50-b737-7f92b38e6616)
+
+document
+
+![document](https://github.com/Githubpucci/EE-322/assets/116912039/192dfadb-a9f4-495c-a91c-71f6f601e909)
 
 
 
