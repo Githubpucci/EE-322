@@ -1,6 +1,16 @@
 # EE 322 Lab 3
 
+### Installing Pip
+
+`sudo apt install python3-pip`
+
 ### Installing Python
+
+`pip3 install jdcal`
+`pip3 install astral`
+`pip3 install geopy`
+
+
 
 
 address
