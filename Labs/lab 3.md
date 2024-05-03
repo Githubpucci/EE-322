@@ -1,3 +1,7 @@
+# EE 322 Lab 3
+
+### Installing Python
+For this lab I decided to use the Linux distribution I have dual booted onto my machine, specifically, Linux Mint. I decided to do this because I have worked with Python before on both Linux and Windows and it is so much easier to use Python on a UNIX based system. 
 
 
 address
