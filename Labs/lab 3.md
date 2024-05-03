@@ -29,8 +29,6 @@ date time
 
 
 
-
-
 sun py
 
 ![sun py](https://github.com/Githubpucci/EE-322/assets/116912039/c73e1753-867e-4124-9397-df3e05d7e4d1)
