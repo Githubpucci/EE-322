@@ -14,7 +14,7 @@
 
 
 
-julian - This program, when run, prints out the current date along with the date in the Julian calender and a modified version of that that is shorter.
+julian - This program prints out the current date along with the date in the Julian calender
 
 ![julian](https://github.com/Githubpucci/EE-322/assets/116912039/29124a53-9c6f-49ba-af88-e7b7ec2ef629)
 ---
