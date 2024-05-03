@@ -31,8 +31,8 @@ Hello
 ![jawn2](https://github.com/Githubpucci/EE-322/assets/116912039/7352e583-c8b6-474d-83fb-7145cbc50baf)
 
 
-Lab 6B: Pystache
-
+# Lab 6B: Pystache
+Install Pystache and run the example code
 
 ![jawn3](https://github.com/Githubpucci/EE-322/assets/116912039/1c365468-a85e-421d-bfa1-5ab8690d46f3)
 
