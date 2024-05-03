@@ -18,7 +18,7 @@ Prints a list of enviroment variables
 ![ps](https://github.com/Githubpucci/EE-322/assets/116912039/588706b8-2e07-43bc-b240-8bbcee9bf48a)
 
 ### pwd
-"print working directory" prints the name of the current directory
+print working directory- prints the name of the current directory
 
 ![pwd](https://github.com/Githubpucci/EE-322/assets/116912039/ca6ed03a-03b6-48c3-a0df-0ebf6368cf0f)
 
@@ -44,7 +44,7 @@ opens the specified file (or creates specified file if it does not currently exi
 "list" lists the names of all files and directories in the working directory
 
 ### df
-Displays available disk space
+Displays the available disk space
 
 
 
