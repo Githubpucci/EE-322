@@ -19,18 +19,18 @@ julian - This program prints out the current date along with the date in the Jul
 ![julian](https://github.com/Githubpucci/EE-322/assets/116912039/29124a53-9c6f-49ba-af88-e7b7ec2ef629)
 ---
 
-date example - prints the date in multiple formats, day of the week, month, year and provides the number of days after the first day of class and the number of days until the last day of classes. For me it was 0 because I did this on the final day of classes.
+date example - prints the date in multiple formats, day of the week, month, year and provides the number of days after the first day of class and the number of days until the last day of classes. For me it was 0 because I did this on the final day of classes
 
 ![dateexample](https://github.com/Githubpucci/EE-322/assets/116912039/013cdd95-451c-446a-a261-f061d4196508)
 ---
-date time - prints the current date and time in a variety of formats
+date time - prints the current date and time
 
 ![datetime](https://github.com/Githubpucci/EE-322/assets/116912039/f1a0f26d-3792-462c-9c08-033190e10f52)
 ---
 
 
 
-sun py - uses an inputted location to print your timezone, latitude and longitude, and the time that certain solar events will happen, including dawn, sunrise, noon, sunset, and dusk
+sun py - uses an inputted location to print your timezone, latitude and longitude, and the time that certain solar events will happen such as the sunrise and noon.
 
 
 ![sun py](https://github.com/Githubpucci/EE-322/assets/116912039/c73e1753-867e-4124-9397-df3e05d7e4d1)
