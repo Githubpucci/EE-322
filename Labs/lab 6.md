@@ -2,17 +2,16 @@
 
 ### Installing Node.js
 
-1. Install Node.js
 
 `sudo apt install -y nodejs npm`
 
-2. Run hello-world.js, hello.js, and http.js
+1. Run hello-world.js, hello.js, and http.js
 
 `node hello-world.js`
 `node hello.js`
 `node https.js`
 
-3. Go to the servers on the internet / web broswer
+2. Go to the servers on the internet / web broswer
 
 ---
 
