@@ -9,7 +9,7 @@ Paho can be installed quickly using this command:
 
 The next step is to install mosquitto
 
-Then we can test it by opening two teminals and running these commands:
+Then you can open two teminals and begin running these commands:
 
 Terminal 1:
 
