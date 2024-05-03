@@ -36,7 +36,7 @@ Change directory- changes directory to a new one based on the name input after t
 
 
 ### nano
-Opens the specified file (or creates specified file if it does not currently exist) and allows for use of nano, a text editer.
+Opens the specified file (or creates specified file if it does not currently exist) and allows for use of nano, a text editer
 
 
 ### ls 
@@ -45,8 +45,6 @@ Lists the names of all files and directories in the working directory
 
 ### df
 Displays the available disk space
-
-
 
 ### cat
 Prints data contained in specified file
@@ -65,7 +63,7 @@ Clears the terminal
 
 ### man uname
 
-Prints machine ID
+Prints the machine ID
 
 ### uname -a
 
@@ -77,8 +75,8 @@ Prints all ip addresses
 
 ### ping localhost
 
-Tests and prints network speed data including download and upload rate
+Tests and prints the networks data speed. including download and upload rate
 
 ### netstat
 
-Prints active network connections
+Prints the active network connections
