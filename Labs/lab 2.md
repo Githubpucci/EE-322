@@ -13,35 +13,35 @@ Prints a list of enviroment variables
 
 
 ### ps
-"process status" prints the name of all currently running processes (programs and applications)
+Process status- prints the name of all currently running processes (programs and applications)
 
 ![ps](https://github.com/Githubpucci/EE-322/assets/116912039/588706b8-2e07-43bc-b240-8bbcee9bf48a)
 
 ### pwd
-print working directory- prints the name of the current directory
+Print working directory- prints the name of the current directory
 
 ![pwd](https://github.com/Githubpucci/EE-322/assets/116912039/ca6ed03a-03b6-48c3-a0df-0ebf6368cf0f)
 
 
 ### git clone
-a command from the git program. Copies a remote Git repository into the current directory.
+A command from the git program. Copies a remote Git repository into the current directory.
 
 ![git clone](https://github.com/Githubpucci/EE-322/assets/116912039/2ffb4de2-baf9-42e7-bee3-5a16b79f136f)
 
 
 ### cd
-"change directory" changes directory to a new one based on the name input after the command
+Change directory- changes directory to a new one based on the name input after the command
 
 ![cd iot](https://github.com/Githubpucci/EE-322/assets/116912039/8d516523-1cf2-485d-a326-3ee90e87bf42)
 
 
 ### nano
-opens the specified file (or creates specified file if it does not currently exist) and allows for use of nano, a text editer.
+Opens the specified file (or creates specified file if it does not currently exist) and allows for use of nano, a text editer.
 
 
 ### ls 
 
-"list" lists the names of all files and directories in the working directory
+Lists the names of all files and directories in the working directory
 
 ### df
 Displays the available disk space
@@ -49,31 +49,31 @@ Displays the available disk space
 
 
 ### cat
-prints data contained in specified file
+Prints data contained in specified file
 
 ### cp
-"copy" copies file data to new specified file (and creates that file if it does not exist)
+Copies file data to new specified file (and creates that file if it does not exist)
 
 ### mv
-changes file name
+Changes the file name
 
 ### rm
-"remove" deletes specified file
+Remove- deletes specified file
 
 ### clear
-clears the terminal
+Clears the terminal
 
 ### uname
 
-prints machine ID
+Prints machine ID
 
 ### uname -a
 
-prints all system information
+Prints all system information
 
 ### ip config
 
-prints all ip addresses
+Prints all ip addresses
 
 ### ping localhost
 
