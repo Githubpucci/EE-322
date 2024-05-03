@@ -2,6 +2,12 @@
 
 ### ThingSpeak and Script Exceution
 
+![lab7data](https://github.com/Githubpucci/EE-322/assets/116912039/dbca45da-7a7d-4aa3-82ee-5a9b317546a6)
+
+---
+
+
+This is what?
 ![pic 1](https://github.com/Githubpucci/EE-322/assets/116912039/b9dd57de-33e6-4547-a35e-c216abb4e52d)
 
 
