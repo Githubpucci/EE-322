@@ -19,7 +19,7 @@ julian - This program prints out the current date along with the date in the Jul
 ![julian](https://github.com/Githubpucci/EE-322/assets/116912039/29124a53-9c6f-49ba-af88-e7b7ec2ef629)
 ---
 
-date example - prints the date in multiple formats, day of the week, month, year and provides the number of days after the first day of class and the number of days until the last day of classes
+date example - prints the date in multiple formats, day of the week, month, year and provides the number of days after the first day of class and the number of days until the last day of classes. For me it was 0 because I did this on the final day of classes.
 
 ![dateexample](https://github.com/Githubpucci/EE-322/assets/116912039/013cdd95-451c-446a-a261-f061d4196508)
 ---
