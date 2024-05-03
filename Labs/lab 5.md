@@ -13,12 +13,13 @@ Then we can test it by opening two teminals and running these commands:
 
 Terminal 1:
 
-` $ mosquitto_sub -h localhost -v -t test/topic & `
+`python3 subcpu.py`
 
 
 Terminal 2:
 
-`$ mosquitto_pub -h localhost -t test/topic -m "Hello" `
+`python3 subcpu.py`
+
 
 ---
 
