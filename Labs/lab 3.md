@@ -30,14 +30,14 @@ date time - prints the current date and time
 
 
 
-sun py - uses an inputted location to print your timezone, latitude and longitude, and the time that certain solar events will happen such as the sunrise and noon.
+sun py - uses an inputted location to print your timezone, latitude and longitude, and the time that certain solar events will happen such as the sunrise and noon
 
 
 ![sun py](https://github.com/Githubpucci/EE-322/assets/116912039/c73e1753-867e-4124-9397-df3e05d7e4d1)
 ---
 
 
-moon py - provides the phase of the moon for each day in a numerical way.
+moon py - provides the phase of the moon for each day 
 
 ![moon py](https://github.com/Githubpucci/EE-322/assets/116912039/bd031f8c-293a-4dba-bb62-fabdf207dd60)
 ---
