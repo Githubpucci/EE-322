@@ -63,7 +63,7 @@ Remove- deletes specified file
 ### clear
 Clears the terminal
 
-### uname
+### man uname
 
 Prints machine ID
 
