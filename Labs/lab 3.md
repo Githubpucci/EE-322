@@ -14,6 +14,9 @@
 
 
 
+julian
+
+![julian](https://github.com/Githubpucci/EE-322/assets/116912039/29124a53-9c6f-49ba-af88-e7b7ec2ef629)
 
 date example
 
@@ -25,9 +28,6 @@ date time
 
 
 
-julian
-
-![julian](https://github.com/Githubpucci/EE-322/assets/116912039/29124a53-9c6f-49ba-af88-e7b7ec2ef629)
 
 
 
