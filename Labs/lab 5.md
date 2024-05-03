@@ -11,6 +11,7 @@
 ![pic2](https://github.com/Githubpucci/EE-322/assets/116912039/00af82c0-bffc-48f6-9835-d787d4553874)
 
 
-PIC 3
+'python3 subcpu.py'
+
 
 ![pic3](https://github.com/Githubpucci/EE-322/assets/116912039/6c86e1fc-2d9e-4151-b187-5608505dbe20)
