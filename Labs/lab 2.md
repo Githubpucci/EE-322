@@ -20,12 +20,20 @@ Prints a list of enviroment variables
 ### pwd
 "print working directory" prints the name of the current directory
 
+![pwd](https://github.com/Githubpucci/EE-322/assets/116912039/ca6ed03a-03b6-48c3-a0df-0ebf6368cf0f)
+
 
 ### git clone
 a command from the git program. Copies a remote Git repository into the current directory.
 
+![git clone](https://github.com/Githubpucci/EE-322/assets/116912039/2ffb4de2-baf9-42e7-bee3-5a16b79f136f)
+
+
 ### cd
 "change directory" changes directory to a new one based on the name input after the command
+
+![cd iot](https://github.com/Githubpucci/EE-322/assets/116912039/8d516523-1cf2-485d-a326-3ee90e87bf42)
+
 
 ### nano
 opens the specified file (or creates specified file if it does not currently exist) and allows for use of nano, a text editer.
