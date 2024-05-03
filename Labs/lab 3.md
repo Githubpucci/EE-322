@@ -29,9 +29,12 @@ julian
 
 ![julian](https://github.com/Githubpucci/EE-322/assets/116912039/29124a53-9c6f-49ba-af88-e7b7ec2ef629)
 
-library 
 
-![library](https://github.com/Githubpucci/EE-322/assets/116912039/d7c21a8e-6ff7-45b9-8e85-5bc38cbcd3a3)
+
+sun py
+
+![sun py](https://github.com/Githubpucci/EE-322/assets/116912039/c73e1753-867e-4124-9397-df3e05d7e4d1)
+
 
 
 moon py
@@ -39,9 +42,9 @@ moon py
 ![moon py](https://github.com/Githubpucci/EE-322/assets/116912039/bd031f8c-293a-4dba-bb62-fabdf207dd60)
 
 
-sun py
+library 
 
-![sun py](https://github.com/Githubpucci/EE-322/assets/116912039/c73e1753-867e-4124-9397-df3e05d7e4d1)
+![library](https://github.com/Githubpucci/EE-322/assets/116912039/d7c21a8e-6ff7-45b9-8e85-5bc38cbcd3a3)
 
 
 address
