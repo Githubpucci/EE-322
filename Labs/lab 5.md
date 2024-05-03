@@ -2,6 +2,11 @@
 
 ### Mosquitto MQTT Test
 
+
+Paho can be installed quickly using this command:
+
+` $ sudo pip3 install paho-mqtt==1.6.1 `
+
 `python3 sub.py`
 
 ![pic1](https://github.com/Githubpucci/EE-322/assets/116912039/b7c94d23-1dcc-41ae-9b6e-18b14da62220)
