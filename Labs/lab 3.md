@@ -58,12 +58,12 @@ cpu - prints information about the system's cpu including, number of physical co
 ![cpu py](https://github.com/Githubpucci/EE-322/assets/116912039/ed746d25-35d3-4e3e-9470-8e779fe280ab)
 ---
 
-battery - prints the percent that the system's battery is at and other information about the battery
+battery - prints the percentage that the system's battery has
 
 
 ![battery](https://github.com/Githubpucci/EE-322/assets/116912039/ca904fd5-9b1e-4b50-b737-7f92b38e6616)
 ---
-document - prints important information about an inputted txt file like word count and the most utilized words.
+document - prints important information about an inputted txt file like the most utilized words
 
 ![document](https://github.com/Githubpucci/EE-322/assets/116912039/192dfadb-a9f4-495c-a91c-71f6f601e909)
 
