@@ -12,7 +12,7 @@
 `node hello.js`
 `node https.js`
 
-3. Visit Servers on the internet / web broswer
+3. Go to the servers on the internet / web broswer
 
 Hello-world
 
